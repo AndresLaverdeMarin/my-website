@@ -2,85 +2,126 @@ schema: hugoblox/author/v1
 slug: me
 is_owner: true
 name:
-  display: Dr. Alex Johnson
-  given: Alex
-  family: Johnson
-  alternate: ''  # Example: 王伟
-  pronunciation: ''  # Example: Wáng Wěi
+  display: "Andres L. Marin"
+  given: "Andres"
+  family: "L. Marin"
+  alternate: ''
+  pronunciation: ''
   pronouns: he/him
-postnominals:
-  - PhD
-  - MIEEE
-status:
-  icon: "☕️"
-role: Senior AI Research Scientist
+postnominals: []
+# status:
+#   icon: "☕️"
+role: AI Scientist & PhD Researcher
 bio: |
-  Alex Johnson is a Senior AI Research Scientist at Meta AI. His research
-  has been published in top conferences like NeurIPS and ICML, with over
-  10,000 citations. Alex is passionate about pushing the boundaries of AI
-  while ensuring ethical development.
+  PhD researcher at Universitat Politècnica de València and Scientific Project Officer at the European Commission's 
+  Joint Research Centre. I work on AI and social data science applied to sustainable transport — from public discourse 
+  analysis to behavioral modeling. Background in Physics and AI, with experience in machine learning, NLP, and data analysis.
 
 affiliations:
-  - name: Meta AI
-    url: https://ai.meta.com/
+  - name: DMIP - Technical University of Valencia (UPV)
+    url: https://sites.google.com/view/dmip
+  - name: Joint Research Centre (European Commission)
+    url: https://joint-research-centre.ec.europa.eu/what-we-do/scientific-activities-area/climate-energy-and-mobility_en
 
 links:
   - icon: at-symbol
-    url: mailto:alex.johnson@example.com
+    url: mailto:andreslaverdemarin@gmail.com
     label: E-mail Me
-  - icon: brands/x
-    url: https://x.com/example
   - icon: brands/github
-    url: https://github.com/example
+    url: https://github.com/AndresLaverdeMarin
+  # - icon: brands/gitlab
+  #   url: https://code.europa.eu/jrc-ldv
   - icon: brands/linkedin
-    url: https://www.linkedin.com/in/example/
+    url: https://www.linkedin.com/in/andreslaverdemarin/
   - icon: academicons/google-scholar
-    url: https://scholar.google.com/citations?user=example
+    url: https://scholar.google.com/citations?user=LQNc3foAAAAJ&hl=es
   - icon: academicons/orcid
-    url: https://orcid.org/0000-0002-1825-0097
+    url: https://orcid.org/0000-0002-9578-4412
 
 interests:
-  - Large Language Models
-  - Computer Vision
-  - Reinforcement Learning
-  - AI Ethics
+  - Artificial Intelligence
+  - Social Data Science
+  - Machine Learning & Deep Learning
+  - Trustworthy AI
+  - Sustainable Transport
+  - Vehicle Energy Consumption
 
 education:
-  - degree: PhD Computer Science
-    institution: Stanford University
-    start: 2015-09-01
-    end: 2019-06-30
+  - degree: PhD in Computer Science
+    institution: Universitat Politecnica de Valencia (UPV)
+    start: 2021-12-14
     summary: |
-      Thesis on scaling laws for neural language models. Published 5 papers in NeurIPS and ICML.
-    button:
-      text: Download dissertation
-      url: /resume.pdf
-      icon: hero/arrow-down-tray
-  - degree: MS Computer Science
-    institution: Carnegie Mellon University
-    start: 2013-09-01
-    end: 2015-05-31
-  - degree: BS Computer Science
-    institution: MIT
-    start: 2009-09-01
-    end: 2013-05-31
+      My PhD explores the gap between laboratory and real-world vehicle performance using AI, 
+      combining energy consumption modeling, driver behavior analysis, and NLP-based public 
+      perception studies to support evidence-based transport policy.
+  - degree: MSc in Data Science
+    institution: Universitat Oberta de Catalunya
+    start: 2019-09-12
+    end: 2020-06-19
+    summary: |
+      Using Neural Networks to search for Galactic Binaries in LISA synthetic data.
+  - degree: BSc in Physics
+    institution: Universitat de Barcelona
+    start: 2012-09-14
+    end: 2019-01-09
+    summary: |
+      Thesis on quantum percolation in complex networks.
+  - degree: PhD Student Visitor
+    institution: University of Bristol
+    start: 2024-03-01
+    end: 2024-03-31
+    summary: |
+      Trustworthy AI for transport.
+  - degree: MSc in Space Studies (AI specialization)
+    institution: Institut d'Estudis Espacials de Catalunya - IEEC
+    start: 2019-10-31
+    end: 2020-06-30
+    summary: |
+      AI application in search of galactic binaries in LISA data.
 
 experience:
-  - role: Senior AI Research Scientist
-    org: Meta AI
-    start: 2020-01-01
+  - role: Scientific Project Officer - Sustainable Transport Unit
+    org: Joint Research Centre (European Commission)
+    start: 2020-05-31
     summary: |
-      Leading research on multimodal AI systems. Contributed to Llama 2 and other open-source models.
-    button:
-      text: View portfolio
-      url: /
-      icon: hero/arrow-down-tray
-  - role: AI Research Intern
-    org: OpenAI
-    start: 2019-06-01
-    end: 2019-12-31
+      Data analysis and modelling from real-world test campaigns. Cloud-based transportation
+      analytics on AWS and Google Cloud. ML techniques for energy-saving applications in transport.
+      Development of regulatory-compliant software tools for WLTP.
+  - role: Social Data Science Research Visitor
+    org: University of Konstanz (Social Data Science Lab)
+    start: 2025-10-01
+    end: 2025-11-30
     summary: |
-      Worked on GPT-3 scaling. Co-authored paper on prompt engineering.
+      Modeling information and opinion propagation through LLM systems. Social media data
+      analysis across multiple platforms. Investigating misinformation propagation patterns.
+  - role: Data Science Programming Lecturer
+    org: Universitat Oberta de Catalunya
+    start: 2021-09-12
+    end: 2023-07-01
+    summary: |
+      Developed comprehensive data science course materials and practical coding exercises
+      using Python, Pandas, Scikit-learn, TensorFlow/PyTorch.
+  - role: External Collaborator
+    org: Institut d'Estudis Espacials de Catalunya - IEEC
+    start: 2020-07-19
+    end: 2021-09-12
+    summary: |
+      Built automated data preprocessing pipelines for gravitational wave data. Developed
+      ANN architectures for overlapping gravitational wave source estimation.
+  - role: Data Scientist
+    org: Mind Analytics
+    start: 2019-04-09
+    end: 2020-05-30
+    summary: |
+      Designed and deployed RPA systems. Engineered end-to-end data pipelines. Built
+      interactive Qlik dashboards for business performance KPIs.
+  - role: Software Engineer
+    org: Giesecke+Devrient Mobile Security
+    start: 2015-08-31
+    end: 2019-04-14
+    summary: |
+      Designed and validated EMV credit card profiles for secure payment transactions.
+      End-to-end testing protocols for production deployment.
 
 skills:
   - name: Technical Skills
@@ -89,28 +130,45 @@ skills:
         level: 5
       - label: Machine Learning
         level: 5
-      - label: Cloud Computing
+      - label: Deep Learning (PyTorch, TensorFlow)
+        level: 4
+      - label: Data Science & Analytics
+        level: 5
+      - label: Cloud Computing (AWS, GCP)
         level: 4
   - name: Research & Communication
     items:
-      - label: Academic Writing
+      - label: Scientific Publications
         level: 5
-      - label: Conference Presentations
+      - label: Data Visualization
         level: 4
-      - label: Grant Proposals
+      - label: LaTeX
         level: 4
 
 languages:
-  - name: English
-    level: 5
-    label: Native
   - name: Spanish
+    level: 5
+    label: Mother tongue
+  - name: Catalan
+    level: 5
+    label: Mother tongue
+  - name: English
     level: 4
-    label: Fluent
+    label: C1
 
 awards:
-  - title: Best Paper Award
-    awarder: NeurIPS
-    date: "2022-12-01"
-    summary: Awarded for groundbreaking work on efficient training of large models.
+  - title: Young Researcher Competition - Top 10 PhD projects in road transportation
+    awarder: TRA VISIONS
+    date: "2022-11-14"
+    summary: Top 10 PhD projects in road transportation.
+    icon: hero/trophy
+  - title: 1st Prize - Barcelona Miro in CUBE Hackathon
+    awarder: Miro in CUBE
+    date: "2020-02-09"
+    summary: First prize with the Ecofriendfly project.
+    icon: hero/trophy
+  - title: Amadeus for Developers Award for Best Technology Solution
+    awarder: Amadeus
+    date: "2020-02-10"
+    summary: Best technological solution using APIs from Amadeus with the Ecofriendfly project.
     icon: hero/trophy
