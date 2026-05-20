@@ -13,9 +13,11 @@ postnominals: []
 #   icon: "☕️"
 role: AI Scientist & Postdoctoral Researcher
 bio: |
-  PhD researcher at Universitat Politècnica de València and Scientific Project Officer at the European Commission's 
-  Joint Research Centre. I work on AI and social data science applied to sustainable transport, from public discourse 
-  analysis to behavioral modeling. Background in Physics and AI, with experience in machine learning, NLP, and data analysis.
+  Doctor in AI from the Universitat Politècnica de València (VRAIN Institute) and Scientific Project Officer at the 
+  European Commission's Joint Research Centre, with an associated position at the Social and Behavioral Data Science Lab 
+  (University of Konstanz). I work on AI and social data science applied to sustainable transport, from public discourse 
+  analysis to behavioral modeling. Background in Theoretical Physics and AI, with experience in machine learning, 
+  deep learning, and NLP.
 
 affiliations:
   - name: Joint Research Centre (European Commission)
