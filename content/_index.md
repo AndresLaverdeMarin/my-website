@@ -42,9 +42,9 @@ sections:
       title: '📚 My Research'
       subtitle: ''
       text: |-
-        My research sits at the intersection of AI, social data science, and sustainable transport. During my PhD, I developed methods to bridge laboratory and real-world vehicle performance — from energy consumption modeling and driver behavior analysis to NLP-based studies of public perception around electric vehicles. This work gave me a strong foundation in machine learning, behavioral modeling, and large-scale data analysis.
+        My research sits at the intersection of AI, social data science, and sustainable transport. During my PhD, I developed methods to bridge laboratory and real-world vehicle performance, from energy consumption modeling and driver behavior analysis to NLP-based studies of public perception around electric vehicles. This work gave me a strong foundation in machine learning, behavioral modeling, and large-scale data analysis.
 
-        Going forward, I'm increasingly focused on social data science: understanding how public discourse, opinion dynamics, and collective behavior shape — and are shaped by — policy decisions. I'm particularly interested in applying computational methods like topic modeling, sentiment analysis, and opinion dynamics models rooted in statistical physics to study how societies engage with sustainability transitions. My goal is to produce research that informs evidence-based policy, especially within the European context.
+        Going forward, I'm increasingly focused on social data science: understanding how public discourse, opinion dynamics, and collective behavior shape and policy decisions. I'm particularly interested in applying computational methods like topic modeling, sentiment analysis, and opinion dynamics models rooted in statistical physics to study how societies engage with sustainability transitions. My goal is to produce research that informs evidence-based policy, especially within the European context.
     design:
       columns: '1'
   - block: collection
