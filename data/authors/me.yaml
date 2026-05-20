@@ -11,17 +11,17 @@ name:
 postnominals: []
 # status:
 #   icon: "☕️"
-role: AI Scientist & PhD Researcher
+role: AI Scientist & Postdoctoral Researcher
 bio: |
   PhD researcher at Universitat Politècnica de València and Scientific Project Officer at the European Commission's 
-  Joint Research Centre. I work on AI and social data science applied to sustainable transport — from public discourse 
+  Joint Research Centre. I work on AI and social data science applied to sustainable transport, from public discourse 
   analysis to behavioral modeling. Background in Physics and AI, with experience in machine learning, NLP, and data analysis.
 
 affiliations:
-  - name: DMIP - Technical University of Valencia (UPV)
-    url: https://sites.google.com/view/dmip
   - name: Joint Research Centre (European Commission)
     url: https://joint-research-centre.ec.europa.eu/what-we-do/scientific-activities-area/climate-energy-and-mobility_en
+  - name: University of Konstanz
+    url: https://www.polver.uni-konstanz.de/social-data-science-lab/co
 
 links:
   - icon: at-symbol
